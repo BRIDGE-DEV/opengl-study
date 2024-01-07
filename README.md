@@ -11,3 +11,5 @@
 7. 모델. 과제: 원하는 모델 불러와서 화면에 띄우기.
 
 OpenGL API를 사용하는 방법에 대해 배우고, 컴퓨터 그래픽스에 대한 전반적인 이해를 할 수 있게 되었습니다.
+
+참여자: [@rpopic2](https://github.com/rpopic2) [@Kimsua99](https://github.com/Kimsua99) 외 익명 4명
